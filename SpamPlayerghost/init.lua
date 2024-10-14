@@ -1,5 +1,6 @@
 ModTextFileSetContent("mods/SpamPlayerGhost/magicnum.xml", [[
 <MagicNumbers
+    _DEBUG_DONT_SAVE_MAGIC_NUMBERS="1"
     BIOME_APPARITION_CHANCE="1"
     APPARITION_MIN_BONES_REQUIRED="1"/>
 ]])
